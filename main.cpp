@@ -4,7 +4,7 @@
 /*
 
   What
-  QGroups of states
+  Groups of states
 
   Description
   Create a non-looping groups of states
